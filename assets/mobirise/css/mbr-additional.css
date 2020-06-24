@@ -1,9 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i&display=swap);
 
-
-
-
-
 body {
   font-family: Rubik;
 }
@@ -792,12 +788,19 @@ section.lazy-placeholder:after {
 }
 .cid-s2qYdwSP6a .navbar {
   padding: .5rem 0;
-  background: #ffffff;
+  background: #FFFFFF;
+  box-shadow: 0px 5px 5px -2px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 5px 5px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 5px 5px -2px rgba(0,0,0,0.75);
   transition: none;
   min-height: 77px;
 }
 .cid-s2qYdwSP6a .navbar-dropdown.bg-color.transparent.opened {
   background: #ffffff;
+  background: #FFFFFF;
+  box-shadow: 0px 5px 5px -2px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px 5px 5px -2px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 5px 5px -2px rgba(0,0,0,0.75);
 }
 .cid-s2qYdwSP6a a {
   font-style: normal;
@@ -828,7 +831,7 @@ section.lazy-placeholder:after {
   align-items: center;
   -webkit-align-items: center;
 }
-.cid-s2qYdwSP6a .btn .mbr-iconfont {
+.cid-s2qYdwSP6a .btn .mbr-display-4  {
   font-size: 1.6rem;
 }
 .cid-s2qYdwSP6a .menu-logo {
@@ -1186,7 +1189,7 @@ section.lazy-placeholder:after {
   color: #000000 !important;
 }
 .cid-s2r9KaxGXb {
-  background: #ffffff;
+  background: #000000;
   padding-top: 0px;
   padding-bottom: 0px;
 }
@@ -1213,10 +1216,11 @@ section.lazy-placeholder:after {
 .cid-s2rgmrY8Xu {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #000000;
+  color: #FFFFFF;
 }
 .cid-s2rgmrY8Xu .line {
-  background-color: #000000;
+  background-color: #FFFFFF;
   color: #000000;
   align: center;
   height: 2px;
